@@ -1,6 +1,6 @@
 # streamlitpython
 
-# 🤖 Gerador de Conteúdo com Gemini Pro (Google AI) + Streamlit
+# 🤖 Gerador de Conteúdo com Gemini Pro (Google AI) + Streamlit (Chatbot)
 
 Este é um aplicativo web simples feito com [Streamlit](https://streamlit.io/) que utiliza o modelo **Gemini Pro** da Google (via `google-generativeai`) para gerar conteúdo baseado em um prompt de texto fornecido pelo usuário. Além disso, você pode pedir que a resposta seja **resumida** automaticamente.
 
