@@ -1,0 +1,8 @@
+replicate
+google-generativeai
+pydub
+streamlit
+requests
+openai
+IPython
+
