@@ -1,5 +1,8 @@
 import streamlit as st
 import google.generativeai as genai
+from openai import OpenAI
+import streamlit as st
+import requests
 
 st.set_page_config(page_title="Gemini Pro", layout="centered")
 st.title("Gerador de Conteúdo com Gemini Pro")
